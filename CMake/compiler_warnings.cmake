@@ -1,0 +1,20 @@
+set(COMPILER_WARNINGS
+    -Wall
+    -Wextra
+    -Wshadow
+    -Wnon-virtual-dtor
+    -pedantic
+    -Wold-style-cast
+    -Wcast-align
+    -Wunused
+    -Woverloaded-virtual
+    -Wconversion
+    -Wsign-conversion
+    -Wduplicated-cond
+    -Wduplicated-branches
+    -Wlogical-op
+    -Wnull-dereference
+    -Wuseless-cast
+    -Wdouble-promotion
+    -Wformat=2
+)
